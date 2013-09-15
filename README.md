@@ -9,6 +9,8 @@ Version: 0.9 ("Uganda")
 
 This software is distributed under the GPL licence (GPL>v3)
 
+It has been developed in Machakos, Kenya, during the 4th East Africa AgMIP Regional Workshop, with the assiastance of the East Africa climate team.
+
 - - - 
 
 This collection of scripts aim to help AgMIP climate team to generate some common visualizations for their reports.
