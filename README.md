@@ -9,7 +9,7 @@ Version: 0.9 ("Uganda")
 
 This software is distributed under the GPL licence (GPL>v3)
 
-It has been developed in Machakos, Kenya, during the 4th East Africa AgMIP Regional Workshop, with the assiastance of the East Africa climate team.
+It has been developed in Machakos, Kenya, during the 4th East Africa AgMIP Regional Workshop, with the assistance of the AgMIP East Africa climate team.
 
 - - - 
 
@@ -29,6 +29,8 @@ This collection of scripts aim to help AgMIP climate team to generate some commo
 - Change directory where your AgMIP files are. ie:
 
  		setwd("/Users/ioannis/sample");
+   On Windows set the path formatted as: `"C:/Users/ioannis/sample"
+   
 -  Generate box plots diagrams by passing three arguments 
 	a. Station name 4-letter code (i.e.`ETAG`)
 	- Climate scenarios one-lettered code (i.e `I`). Consult the AgMIP notation for climate files.
