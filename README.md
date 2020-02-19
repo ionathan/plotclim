@@ -29,7 +29,7 @@ This collection of scripts aim to help AgMIP climate team to generate some commo
 - Change directory where your AgMIP files are. ie:
 
  		setwd("/Users/ioannis/sample");
-   On Windows set the path formatted as: `"C:/Users/ioannis/sample"
+   On Windows set the path formatted as: `"C:/Users/ioannis/sample"`
    
 -  Generate box plots diagrams by passing three arguments 
 	a. Station name 4-letter code (i.e.`ETAG`)
